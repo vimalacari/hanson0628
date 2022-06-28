@@ -2,3 +2,7 @@ git hub 0628作成
 コミット
 
 ここからdevブランチで作業
+
+branch作成->移動の２回の動作を一気にやるコマンド
+git checkout -b “branch名
+
